@@ -34,7 +34,7 @@ public class empWageBuilder
 		}
 	System.out.println("Monthly Wage of the Employee is: " +monthlyWage);
 	System.out.println("Total work days of the Employee ina month is: " +totalWorkDay);
-	System.out.println("Total no. of hours an Employee worked in a month is: " +totalWorkHour);
+	System.out.println("Total no.  of hours an Employee worked in a month is: " +totalWorkHour);
 	}
 }
 
